@@ -1,0 +1,4 @@
+public staticvoid main(String[] args){
+
+system.out.println("Java");
+}
